@@ -7,7 +7,7 @@ const App = () => {
   }
 
   const toggleImportance = (note) => {
-    console.log('toggle importance of', note.id)
+    console.log('toggle importancee of', note.id)
   }
 
   const notes = []
